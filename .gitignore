@@ -6,3 +6,5 @@ data/**
 !data/**/
 !data/**/.gitkeep
 .DS_Store
+*.Rproj
+.Rproj.user/
